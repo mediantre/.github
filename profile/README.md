@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+This account includes rowing-related repos
+
+There is a workout generator and a [workout website](https://erg4.life)
+
+Feel free to make a PR on any repo here
+
 <!--
 
 **Here are some ideas to get you started:**
