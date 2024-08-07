@@ -2,7 +2,7 @@
 
 This account includes rowing-related repos
 
-There is a workout generator and a [workout website](https://erg4.life)
+There is a workout generator and a [workout website](https://ergworkouts.com/)
 
 Feel free to make a PR on any repo here
 
